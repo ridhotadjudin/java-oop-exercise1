@@ -1,0 +1,13 @@
+# compiled output
+/bin/
+/target/
+
+# IDE
+.settings/
+.classpath
+.project
+.idea/
+*.iml
+
+# misc
+.DS_Store
